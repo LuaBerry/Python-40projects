@@ -1,0 +1,9 @@
+Desktop Info 
+
+CPU max speed: 2.2GHz
+CPU core: 6
+Total memory: 16GB
+C:\ NTFS Disk Capacity: 228GB
+D:\ NTFS Disk Capacity: 10GB
+E:\ NTFS Disk Capacity: 931GB
+Sent: 11.2MB Received: 567.1MB
